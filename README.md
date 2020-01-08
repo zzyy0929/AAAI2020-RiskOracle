@@ -8,9 +8,9 @@ NYC dataset
 
 Accident Records: https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95  
 
-Taxi Trip Records https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page  
+Taxi Trip Records https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page  
 
-Speed Values: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page  
+Speed Values: http://data.beta.nyc/dataset/nyc-real-time-traffic-speed-data-feed-archived  
 
 Weather Records: https://www.wunderground.com/history/daily/us/ny/central-park/KNYC  
 
