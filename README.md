@@ -1,6 +1,11 @@
 # AAAI2020-RiskOracle  
 
 AAAI 2020-Accident Forecasting Experiments Setups  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-For detailed Codes and PKDE-based data transformation, please refer to Codes for TKDE: https://github.com/zzyy0929/Codes-for-RiskSeq-TKDE, Thank you very much!-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 Dataset Sources  
 
